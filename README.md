@@ -1,4 +1,5 @@
 # Face Detection with OpenCV
+#For some reason I don't have edit permissions for my own project lmao so I have to make a fork of it to make commits :O
 ## Dependencies
 - Python 3.7
 - opencv-python 4.8.1.78
